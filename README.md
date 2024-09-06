@@ -1,10 +1,15 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Dominando a Criatividade com IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+## Produzindo Conteúdos Incrivelmente Realistas e Impactantes
+As IAs generativas estão revolucionando a forma como criamos conteúdos, permitindo a produção de textos, imagens, áudios e vídeos com um nível de realismo e criatividade nunca antes visto. Este resumo explora como essas tecnologias podem ser usadas para transformar ideias em conteúdos impactantes, seja para marketing, entretenimento ou projetos artísticos. Aprenda a utilizar essas ferramentas poderosas para expandir sua criatividade e produzir obras que capturam a atenção e engajam seu público de maneira única e inovadora.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+As erramentas usadas foram:
+- [ChatGPT](https://chatgpt.com)
+- [Leonardo.ai](https://leonardo.ai/)
+- [D-iD](https://www.d-id.com/)
+- [HeyGen](https://app.heygen.com/)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
