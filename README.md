@@ -50,7 +50,12 @@ O podcast será distribuído em plataformas como Youtube Music, Spotify, Apple P
 
 ## 🚀 Resultados
 
-Os resultados do meu projeto está em desenvolvimento. Estou ansioso para compartilhar os resultados com vocês.
+Os resultados do meu projeto está em desenvolvimento, mais Estou ansioso para compartilhar os resultados até agora com vocês, veja o link abaixo.
+
+- [Link das Imagem](/resultados/IMAGEM.md)
+- [Link do Podcast](/resultados/PODCAST.md)
+- [Link dos Vídeo (Avatar Virtual)](/resultados/VIDEO.md)
+
 
 
 ## 💭 Reflexão (Opcional)
@@ -81,32 +86,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
