@@ -54,7 +54,10 @@ Os resultados do meu projeto está em desenvolvimento. Estou ansioso para compar
 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+Ah, o intrigante mundo do “natty or not”! Vamos mergulhar nesse desafio e explorar como a inteligência artificial generativa (IAGen) pode nos surpreender.
+
+Primeiro, deixe-me explicar o que significa “natty” nesse contexto. A palavra “natty” é uma gíria comum no fisiculturismo e se refere a alguém que aparenta ter um físico impressionante sem o uso de substâncias proibidas, como esteroides anabolizantes. Portanto, quando aplicamos esse termo à IA, estamos questionando se algo foi criado de forma natural (por um ser humano) ou se foi gerado artificialmente.
 
 -----------------------------------
 ========================
