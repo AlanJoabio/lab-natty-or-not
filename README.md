@@ -18,8 +18,6 @@ As Ferramentas foram usada:
 - [ElevenLabs.io](https://elevenlabs.io/)
 - [Leonardo.ai](https://leonardo.ai/)
 
-**IA de Geração de Música:** Para criar trilhas sonoras personalizadas para cada episódio.
-
 
 ## 🧐 Processo de Criação
 
@@ -65,26 +63,13 @@ Ah, o intrigante mundo do “natty or not”! Vamos mergulhar nesse desafio e ex
 Primeiro, deixe-me explicar o que significa “natty” nesse contexto. A palavra “natty” é uma gíria comum no fisiculturismo e se refere a alguém que aparenta ter um físico impressionante sem o uso de substâncias proibidas, como esteroides anabolizantes. Portanto, quando aplicamos esse termo à IA, estamos questionando se algo foi criado de forma natural (por um ser humano) ou se foi gerado artificialmente.
 
 -----------------------------------
-========================
+Compartilhando os meus resultados 
 
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+#LabDIONattyOrNot. 
 
-## 🚀 Introdução
+[DIO](https://www.linkedin.com/school/dio-makethechange)
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+[falvojr](https://www.linkedin.com/in/falvojr)
 
 
 ## Links Interessantes
